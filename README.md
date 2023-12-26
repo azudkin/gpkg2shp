@@ -19,7 +19,7 @@ It is batch converter from .gpkg files to .shp files
 3. progress.bar - for visualization of process
 
 ### How to use
-1. download both files and put in nearby
+1. download both files and put it nearby
 2. install all modules
 3. in program_convert.py set *path_in* as your directory with .gpkg files and and *path_out* as your destination folder for .shp files
 4. !!!Important, that destination folder marked in *path_out* will be cleared!!!
